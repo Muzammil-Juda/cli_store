@@ -1,5 +1,5 @@
-# ruby-cli-template
+# Ruby CLI Store App
 
-CLI Store. Here you can find that at which Aisle number you can find your desired Department. 
+CLI Store. This app will help you find the correct aisle number for your desired department of the store.
 
 - Ruby version: `3.2.1` 
